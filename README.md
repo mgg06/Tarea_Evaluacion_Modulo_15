@@ -127,11 +127,11 @@ Si algo sale mal (¡que no cunda el pánico! 😱), ponemos un puntito rojo (*br
 
 *(A continuación se muestra la evidencia de la ejecución exitosa de los tests 💖)*
 
-> ⚠️ **Nota:** Cambia el enlace de la imagen de abajo por la captura real de tu VS Code con el Matraz abierto y los tests completados. 👇
-
-!Captura de los Tests en VS Code
+<img width="1674" height="1048" alt="image" src="https://github.com/user-attachments/assets/7b841c45-88f2-4610-9b23-981f60af071a" />
+<img width="602" height="392" alt="image" src="https://github.com/user-attachments/assets/eafef870-0b19-477a-bbfa-690ca4f8f77a" />
+<img width="126" height="119" alt="image" src="https://github.com/user-attachments/assets/2cc7e526-8c32-49de-ab04-f9a0be0a154d" />
 
 ---
 <div align="center">
-Hecho con mucho 💖, 🌸 y código Java. ☕
+Hecho con mucho 💖, por Marta González González y con código Java. ☕
 </div>
