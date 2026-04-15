@@ -23,9 +23,9 @@ class CalculadoraRiesgoTest {
     }
 
     @Test
-    void testLimite18() {
+    void testJoven() {
         
-        assertEquals("Adulto", calc.evaluarEdad(18));
+        assertEquals("Joven", calc.evaluarEdad(18));
     }
 
 }
