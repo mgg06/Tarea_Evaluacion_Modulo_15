@@ -100,8 +100,8 @@ class CalculadoraRiesgoTest {
     }
 
     @Test
-    void testLimite18() {
-        assertEquals("Adulto", calc.evaluarEdad(18)); // 🎂 Caso añadido: Límite 18
+    void testJoven() {
+        assertEquals("Joven", calc.evaluarEdad(18)); // 🎂 Caso añadido: Límite 18
     }
 }
 ```
@@ -127,7 +127,7 @@ Si algo sale mal (¡que no cunda el pánico! 😱), ponemos un puntito rojo (*br
 
 *(A continuación se muestra la evidencia de la ejecución exitosa de los tests 💖)*
 
-<img width="1674" height="1048" alt="image" src="https://github.com/user-attachments/assets/7b841c45-88f2-4610-9b23-981f60af071a" />
+<img width="1475" height="1227" alt="image" src="https://github.com/user-attachments/assets/f4dca6db-76e0-4584-962a-efd96f85417e" />
 <img width="602" height="392" alt="image" src="https://github.com/user-attachments/assets/eafef870-0b19-477a-bbfa-690ca4f8f77a" />
 <img width="126" height="119" alt="image" src="https://github.com/user-attachments/assets/2cc7e526-8c32-49de-ab04-f9a0be0a154d" />
 
